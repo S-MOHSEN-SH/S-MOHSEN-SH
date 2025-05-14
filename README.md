@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - Improving **frontend performance** with **React** and **Redux**.
 - Developing **event-driven architectures** and real-time data processing using **Kafka** and **RabbitMQ**.
 
-💬 Feel free to reach out if you'd like to discuss **full-stack development**, **Node.js**, **React**, or any other aspect of scalable system design.
+💬 Would be so excited to discuss **full-stack development**, **Node.js**, **React**, or any other aspect of scalable system design and new tech.
